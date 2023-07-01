@@ -13,7 +13,7 @@ public:
 	{
 		info = i;
 		leftchild = 1;
-		rightchild = r;
+		rightchild = r; 
 	}
 };
 
