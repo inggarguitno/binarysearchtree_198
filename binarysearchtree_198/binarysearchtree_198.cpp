@@ -138,7 +138,7 @@ int main()
 		{
 			cout << "Enter a word: ";
 			string word;
-			cin >> word;
+			cin >> word; 
 			obj.insert(word);
 			break;
 		}
