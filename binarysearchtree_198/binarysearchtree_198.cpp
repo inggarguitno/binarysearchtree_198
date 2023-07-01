@@ -20,7 +20,7 @@ public:
 class BinaryTree
 {
 public:
-	Node* ROOT;
+	Node* ROOT; 
 
 	BinaryTree()
 	{
