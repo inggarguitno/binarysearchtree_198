@@ -41,7 +41,7 @@ public:
 		if (parent == NULL)
 		{
 			ROOT = newNode;
-			return;
+			return; 
 		}
 
 		if (element < parent->info)
