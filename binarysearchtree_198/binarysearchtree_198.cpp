@@ -78,7 +78,7 @@ public:
 		}
 		if (ptr != NULL)
 		{
-			inorder(ptr->leftchild);
+			inorder(ptr->leftchild); 
 			cout << ptr->info << " ";
 			inorder(ptr->rightchild);
 		}
