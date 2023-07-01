@@ -151,7 +151,7 @@ int main()
 		{
 			obj.inorder(obj.ROOT);
 			break;
-		}
+		} 
 		case 4:
 		{
 			obj.inorder(obj.ROOT);
