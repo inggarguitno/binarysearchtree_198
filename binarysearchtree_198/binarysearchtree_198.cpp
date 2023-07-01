@@ -109,7 +109,7 @@ public:
 		if (ptr != NULL)
 		{
 			posteder(ptr->leftchild);
-			posteder(ptr->rightchild)
+			posteder(ptr->rightchild) 
 			cout << ptr->info << " ";
 		}
 	}
